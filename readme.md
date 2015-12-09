@@ -6,7 +6,7 @@ This Maptime will all be about literary maps! A literature map, or literary map 
 With your favourite poem, or book, we will make a postcard map: or cartographic riddle. Based on the postcards from Menno, Geographische Liebes-Räthsel. See http://denengelse.nl/blogt/geographische-liebes-rathsel/ 
 
 ![alt text](geo-liebes-rathsel-5-1024x653.jpg)
-
+![alt text](IMG_0607.JPG)
 
 Postcard sized paper will be provided, to draw your map on. The text will be hidden in the map, by placing the words of your poem or quote as place marks in the map.
 Your map can be either a fantasy map or based on a map that is relevant to you or your text.
@@ -15,7 +15,7 @@ Shape files can be exported to inkscape to place the text in there or printed to
 
 Also you can draw the cards by hand or use your computer to make the different elements of your postcard. Markers and pens are provided. 
 
-The following links contain tutorials which might be helpfull:
+The following links contain tutorials which might be helpful:
 
 ##QGIS tutorials
 - https://github.com/maptime/portland/blob/gh-pages/tutorials/Cartographic-Design-Notes-and-Resources-by-Alexa-Todd.md
@@ -23,7 +23,7 @@ The following links contain tutorials which might be helpfull:
 ##Inkscape text tutorials
 - http://goinkscape.com/how-to-curve-text-in-inkscape/ 
 - http://design.tutsplus.com/tutorials/kerning-spacing-and-other-text-tricks-in-inkscape--cms-20576
-- pdf
+- see pdf
 
 ##Drawing Maps by hand tutorials
 - http://worldbuildingschool.com/the-authors-guide-to-drawing-maps/
